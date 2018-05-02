@@ -1,3 +1,4 @@
 #ignore folder log
 log/
 ~*
+/vendor
